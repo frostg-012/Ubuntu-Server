@@ -1,4 +1,4 @@
-name: Ubuntu_FocalFossa
+name: Ubuntu_Focal
 on: 
   workflow_dispatch:
 defaults:
